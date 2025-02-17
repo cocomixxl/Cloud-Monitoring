@@ -1,4 +1,6 @@
+[Coursera 3MRWUGSXNU4H.pdf](https://github.com/user-attachments/files/18833746/Coursera.3MRWUGSXNU4H.pdf)
 # Cloud-Monitoring
+
 
 ## Objective
 
